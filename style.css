@@ -59,3 +59,12 @@ form input.operator{
 form input.operator:hover{
     color: #e3ffdf;
 }
+
+.container .heading{
+
+    color: #0c7263;
+    font-family: 'Popinns',sans-serif;
+    font-size: 50px;
+    display: flex;
+    margin: 50px;
+}
