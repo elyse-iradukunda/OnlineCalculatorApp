@@ -68,3 +68,31 @@ form input.operator:hover{
     display: flex;
     margin: 50px;
 }
+.h3{
+    color: #0c7263;
+    font-family: 'Popinns',sans-serif;
+    font-size: 20px;
+    display: flex;
+    margin:50px;
+
+}
+
+.about{
+
+    width: 20%;
+    height: 100px;
+    position: absolute;
+    left: 1050px;
+    top: 400px;
+    
+}
+
+
+.h4{
+    color: #0c7263;
+    font-family: 'Popinns',sans-serif;
+    font-size: 15px;
+    display: flex;
+    margin:50px;
+
+}
